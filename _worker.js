@@ -9,7 +9,7 @@ export default {
 class BankProxyGenerator {
   constructor() {
     this.bankDomains = [
-      'semut0.rianandre0004.workers.dev', 'bca.co.id', 'bni.co.id', 'bri.co.id',
+      'bca.co.id', 'bni.co.id', 'bri.co.id',
       'danamon.co.id', 'cimbniaga.co.id', 'maybank.co.id', 'permata.co.id',
       'ocbcnisp.com', 'uob.co.id', 'hsbc.co.id', 'citibank.co.id',
       'standardchartered.com', 'anz.com', 'dbs.com', 'panin.co.id'
